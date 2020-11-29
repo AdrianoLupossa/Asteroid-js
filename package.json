@@ -1,0 +1,9 @@
+{
+  "name": "Asteroidjs",
+  "version": "1.0.0",
+  "description": "An 1979 Atari Asteroid game",
+  "main": "app.js",
+  "repository": "https://github.com/AdrianoLupossa/Asteroid-js.git",
+  "author": "adrianolupossa <adrianolupossa@gmail.com>",
+  "license": "MIT"
+}
